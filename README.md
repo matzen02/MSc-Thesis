@@ -36,7 +36,7 @@ For reproducibility, model classes and calibration routines are documented withi
 ---
 
 ## Repository Structure 
-/Python code/ → Python scripts for analytical simulation and calibration
-/Figures/ → Graphical results (ACE, cost distributions, sensitivity analysis)
-/thesis/ → PDF of the full MSc thesis
-README.md → Repository documentation
+- **/Python code/** → Python scripts for analytical simulation and calibration
+- **/Figures/** → Graphical results (ACE, cost distributions, sensitivity analysis)
+- **/thesis/** → PDF of the full MSc thesis
+- **README.md** → Repository documentation
